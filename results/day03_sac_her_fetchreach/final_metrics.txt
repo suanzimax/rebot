@@ -1,0 +1,4 @@
+success_rate: 1.0
+mean_episode_reward: -1.66
+mean_episode_length: 50.0
+n_episodes: 50
